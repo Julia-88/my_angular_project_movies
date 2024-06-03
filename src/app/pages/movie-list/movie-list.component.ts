@@ -13,4 +13,3 @@ import { RouterLink } from '@angular/router';
 export class MovieListComponent {
   constructor(public movieService: MovieService) {}
 }
-
